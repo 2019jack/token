@@ -1,25 +1,25 @@
 {
-    "name": "Roma",
-    "logoURI": "https://ipfs.io/ipfs/QmYLfBzd2QjLYviAurocCeLCJpqQCR1F4nTeMY9bzERnT1",
+    "name": "Schain",
+    "logoURI": "https://scviewer.com/favicon.png",
     "keywords": [
-      "roma",
-      "chain"
+      "Schain",
+      "SCC"
     ],
     "timestamp": "2024-10-05T03:15:00.000+00:00",
     "tokens": [
       {
-        "chainId": 888888,
-        "address": "0x4d62d23477270408307a957c71559e089e30dce8",
-        "name": "weth",
-        "symbol": "weth",
+        "chainId": 8001,
+        "address": "0x32fda5895d338fb39f751acc54b8f292f27292ba",
+        "name": "Wrapped Scc",
+        "symbol": "WSCC",
         "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_eth.svg"
+        "logoURI": "https://scviewer.com/favicon.png"
       },
       {
-        "chainId": 888888,
-        "address": "0x8518F51a49189FB6c449Db6c3054fB916F08d7C4",
-        "name": "usdt",
-        "symbol": "usdt",
+        "chainId": 8001,
+        "address": "0x68cEFfd7a6765ef1489a8e80C7FCE9bC5bCD4919",
+        "name": "Tether USD",
+        "symbol": "USDT",
         "decimals": 6,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
       }
